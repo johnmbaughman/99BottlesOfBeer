@@ -6,7 +6,7 @@ Short, sweet C#7 based app. Very short.
 
 `Program.cs`: Almost (not quite close enough) to golf sized, easy to read. 
 
-`ProgramGolf.cs`: 493 bytes of golf goodness.
+`ProgramGolf.cs`: 477 bytes of golf goodness.
 
 *Output*:
 
