@@ -1,4 +1,4 @@
-# 99 Bottle Of Beer
+# 99 Bottles of Beer
 
 Inspired by the [99 Bottles of Beer](http://www.99-bottles-of-beer.net/language-csharp-1614.html) web site. 
 
