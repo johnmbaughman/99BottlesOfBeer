@@ -8,7 +8,7 @@ Short, sweet C#7 based app. Very short.
 
 `ProgramGolf.cs`: 434 bytes of golf goodness.
 
-`ProgramGolfCS9.cs`: 430 bytes of better golf goodness. Now with C#9 [top level statements](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#top-level-statements)
+`ProgramGolfCS9.cs`: 264 bytes of better golf goodness. Now with C#9 [top level statements](https://docs.microsoft.com/en-us/dotnet/csharp/whats-new/csharp-9#top-level-statements)
 
 *Output*:
 
